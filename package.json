@@ -9,7 +9,7 @@
     "prettier": "prettier --write .",
     "doc": "typedoc --out ./docs --customCss custom-styles.css",
     "test": "npx vitest run --watch",
-    "coverage": "vitest run --watch --coverage --coverage.include src/**/*.ts"
+    "coverage": "vitest run --watch --coverage --coverage.include src/**/**/*.ts"
   },
   "keywords": [],
   "author": "",
