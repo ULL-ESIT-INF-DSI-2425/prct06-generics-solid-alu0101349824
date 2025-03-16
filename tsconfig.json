@@ -7,10 +7,10 @@
   "include": ["./src/**/*.ts"],
   "compilerOptions": {
     "target": "ES2024",
-    "module": "commonjs",
+    "module": "Node16",  // Usar Módulos ES (en lugar de CommonJS)
     "rootDir": "./src",
     "outDir": "./dist",
-    "esModuleInterop": true,
+    "esModuleInterop": true,  // Mantener para interoperabilidad con CommonJS si es necesario
     "skipLibCheck": true,
     "forceConsistentCasingInFileNames": true,
     "noImplicitReturns": true,

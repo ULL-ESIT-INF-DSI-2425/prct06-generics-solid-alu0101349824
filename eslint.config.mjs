@@ -44,6 +44,7 @@ export default [
       "typedoc.json",
       ".vscode/**",
       ".github/workflows/**",
+      "vitest.config.js",
     ],
   },
 ];

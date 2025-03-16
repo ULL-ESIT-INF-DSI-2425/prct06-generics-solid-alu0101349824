@@ -17,3 +17,5 @@ tsdoc.json
 typedoc.json
 .vscode
 .github/workflows
+.github/workflows/**
+vitest.config.js
