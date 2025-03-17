@@ -1,7 +1,7 @@
 import { Streamable } from "./Streamable";
 
 /**
- * @module Ejercicio1
+ * @module BasicStreamableCollection
  * @remarks
  * # BasicStreamableCollection
  * Clase abstracta que implementa la interfaz genérica `Streamable<T>`.
