@@ -2,7 +2,7 @@ import { Emision } from "./Emision";
 import { BasicStreamableCollection } from "./BasicStreamableCollection";
 
 /**
- * @module ColeccionSeries
+ * @module Ejercicio1
  * @remarks
  * # ColeccionSeries
  * Subclase que modela una colección de series y añade métodos específicos para buscar y filtrar series.

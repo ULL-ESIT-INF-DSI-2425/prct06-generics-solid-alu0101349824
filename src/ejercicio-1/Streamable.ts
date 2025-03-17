@@ -1,5 +1,5 @@
 /**
- * @module Streamable
+ * @module Ejercicio1
  * @remarks
  * # Streamable
  * Interfaz genérica para operaciones de lectura y búsqueda en una colección.
