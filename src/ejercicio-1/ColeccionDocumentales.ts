@@ -1,10 +1,8 @@
 import { Emision } from "./Emision";
 import { BasicStreamableCollection } from "./BasicStreamableCollection";
-/**
- * @module Ejercicio1
- */
 
 /**
+ * @module Ejercicio1
  * @remarks
  * # ColeccionDocumentales
  * Subclase que modela una colección de documentales y añade métodos específicos para buscar y filtrar documentales.
