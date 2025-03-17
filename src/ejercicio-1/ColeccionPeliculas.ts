@@ -1,8 +1,11 @@
+/**
+ * @module Ejericio1
+ */
+
 import { Emision } from "./Emision";
 import { BasicStreamableCollection } from "./BasicStreamableCollection";
 
 /**
- * @module ColeccionPeliculas
  * @remarks
  * # ColeccionPeliculas
  * Subclase que modela una colección de películas y añade métodos específicos para buscar y filtrar películas.

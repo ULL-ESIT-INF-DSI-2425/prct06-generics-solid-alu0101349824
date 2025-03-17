@@ -1,7 +1,10 @@
+/**
+ * @module Ejericio1
+ */
+
 import { Streamable } from "./Streamable";
 
 /**
- * @module BasicStreamableCollection
  * @remarks
  * # BasicStreamableCollection
  * Clase abstracta que implementa la interfaz genérica `Streamable<T>`.

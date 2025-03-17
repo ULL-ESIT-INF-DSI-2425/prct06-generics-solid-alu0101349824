@@ -1,8 +1,11 @@
+/**
+ * @module Ejericio1
+ */
+
 import { Emision } from "./Emision";
 import { BasicStreamableCollection } from "./BasicStreamableCollection";
 
 /**
- * @module ColeccionDocumentales
  * @remarks
  * # ColeccionDocumentales
  * Subclase que modela una colección de documentales y añade métodos específicos para buscar y filtrar documentales.

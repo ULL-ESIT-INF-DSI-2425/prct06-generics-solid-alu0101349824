@@ -1,5 +1,8 @@
 /**
- * @module Emision
+ * @module Ejericio1
+ */
+
+/**
  * @remarks
  * # Emision
  * Describe el tipo mínimo que toda emisión debe tener para ser gestionada en la aplicación. Este tipo de dato se utiliza para definir el contenido audiovisual que se puede gestionar en la aplicación (series, películas, documentales, etc.).
