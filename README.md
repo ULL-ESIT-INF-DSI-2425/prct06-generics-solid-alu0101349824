@@ -14,5 +14,10 @@
 **Asignatura**: Desarrollo de Sistemas Informáticos <br>
 **Curso**: 2024/2025 <br>
 
-La Práctica 6 se centra en profundizar el conocimiento y manejo de las clases e interfaces genéricas, así como en la aplicación de los principios SOLID mediante una serie de ejercicios prácticos que se pueden encontrar en el siguiente enlace:
-[Enunciado Práctica 6](https://ull-esit-inf-dsi-2425.github.io/prct06-generics-solid/).
+- ## Semana del 10 al 16 de marzo:
+
+  La Práctica 6 se centra en profundizar el conocimiento y manejo de las clases e interfaces genéricas, así como en la aplicación de los principios SOLID mediante una serie de ejercicios prácticos que se pueden encontrar en el siguiente enlace:
+  [Enunciado Práctica 6](https://ull-esit-inf-dsi-2425.github.io/prct06-generics-solid/).
+
+- ## Semana del 17 al 23 de marzo:
+  Esta semana se ha trabajado en la implementación de Module ES y en el manejo de Patrones de Diseño. Se profundiza en la aplicación de los principios SOLID y se comienza a usar la herramienta SonarCloud para la revisión de código.
