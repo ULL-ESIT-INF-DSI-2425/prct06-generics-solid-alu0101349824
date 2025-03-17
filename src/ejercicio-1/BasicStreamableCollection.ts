@@ -1,7 +1,3 @@
-/**
- * @module Ejericio1
- */
-
 import { Streamable } from "./Streamable";
 
 /**

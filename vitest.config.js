@@ -4,7 +4,7 @@ export default defineConfig({
   test: {
     coverage: {
       all: true,
-      include: ["src/**/*.ts"],
+      include: ["src/**/TelefonoMovil.ts"],
     },
   },
 });

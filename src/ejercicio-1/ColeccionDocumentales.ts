@@ -1,7 +1,3 @@
-/**
- * @module Ejericio1
- */
-
 import { Emision } from "./Emision";
 import { BasicStreamableCollection } from "./BasicStreamableCollection";
 
